@@ -1,4 +1,5 @@
 # Career-Sage : https://mayankiscoding.github.io/Career-Sage/
+https://dev-98.github.io/Career-Sage/
 
 ## What is our Problem Statement?
 - Many students in the 6-12 standard face a significant challenge when it comes to charting their future career paths or selecting courses to acquire relevant skills. The lack of awareness about crucial educational reforms such as the National Education Policy (NEP) of 2020 exacerbates this issue. Without proper guidance, students may struggle to align their interests and strengths with suitable career options. This predicament often leads to uncertainty and can potentially hinder their ability to make informed decisions about their academic pursuits. It is imperative to bridge this knowledge gap and provide students with the necessary resources and support to make well-informed choices that set them on a path towards a successful and fulfilling future.
